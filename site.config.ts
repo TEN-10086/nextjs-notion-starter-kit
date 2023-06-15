@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '84270ba9c5cf4c9b9c7fa09be29c8529',
+  rootNotionPageId: '6c15e3973df04be1a24e00d7a88cbffa',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'POP趨勢-線上培訓平台',
-  domain: 'https://evening-antique-a4a.notion.site/406f066099de4ad4a6f89a28602b6485?v=84270ba9c5cf4c9b9c7fa09be29c8529',
+  domain: 'https://evening-antique-a4a.notion.site/Next-js-Notion-Starter-Kit-Template-6c15e3973df04be1a24e00d7a88cbffa',
   author: 'TEN & HAN',
 
   // open graph metadata (optional)
