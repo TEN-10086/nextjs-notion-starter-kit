@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ec88566a549c493a99eb0ca67b206540?pvs=4',
+  rootNotionPageId: '5d81bfa2fa894c769f3792490c1af4d4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '佰醫繪BHD-項目標準與培訓平台',
-  domain: 'https://www.notion.so/BHD-ec88566a549c493a99eb0ca67b206540?pvs=4',
+  domain: 'https://www.notion.so/BHD-5d81bfa2fa894c769f3792490c1af4d4?pvs=4',
   author: 'TEN',
 
   // open graph metadata (optional)
