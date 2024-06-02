@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '6c15e3973df04be1a24e00d7a88cbffa',
+  rootNotionPageId: 'ec88566a549c493a99eb0ca67b206540?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'POP趨勢-線上培訓平台',
-  domain: 'https://evening-antique-a4a.notion.site/Next-js-Notion-Starter-Kit-Template-6c15e3973df04be1a24e00d7a88cbffa',
-  author: 'TEN & HAN',
+  name: '佰醫繪BHD-項目標準與培訓平台',
+  domain: 'https://www.notion.so/BHD-ec88566a549c493a99eb0ca67b206540?pvs=4',
+  author: 'TEN',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: '',
   github: 'TEN-10086',
-  linkedin: 'fisch2',
+  linkedin: '  ',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
